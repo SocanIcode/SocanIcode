@@ -1,6 +1,6 @@
 ##Hi there!👋 Welcome to My page
 
-<!--
+
 **This personal project focuses on developing a fully functional and professional portfolio website to showcase my skills, experience, and projects, with the goal of attracting potential employers..
 
 ## Description
