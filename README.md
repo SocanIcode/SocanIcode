@@ -24,17 +24,6 @@ Features
 - Accessible and optimized images
 
 
-
-## Built With
-
-Programming languages and frameworks used for projects
-
-- HTML5
-- JavaScript (Vanilla)
-- CSS
-- Adobe-xd
-- Figma
-
 ## Getting Started
 This section provides step-by-step instructions to set up and run the following projects in profile repositories:Ex
 ###  Projects
